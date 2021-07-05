@@ -2144,7 +2144,7 @@ jest-pnp-resolver@^1.2.2:
   resolved "https://registry.yarnpkg.com/jest-pnp-resolver/-/jest-pnp-resolver-1.2.2.tgz#b704ac0ae028a89108a4d040b3f919dfddc8e33c"
   integrity sha512-olV41bKSMm8BdnuMsewT4jqlZ8+3TCARAXjZGT9jcoSnrfUnRCqnMoF9XEeoWjbzObpqF9dRhHQj0Xb9QdF6/w==
 
-jest-puppeteer@^5.0.4:
+jest-puppeteer@5.0.4:
   version "5.0.4"
   resolved "https://registry.yarnpkg.com/jest-puppeteer/-/jest-puppeteer-5.0.4.tgz#c52e3379c11425ce974d025c1a8bf9f599da4b3f"
   integrity sha512-IUOVKgHEaKsLqahZy/J/DvXB59SQx4AVpZKTRDvJzCdkvdGc3NVsNwUhovr6SK+HOK1TOiqAiXPTAPiIq3mkrg==
@@ -2794,7 +2794,7 @@ punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-puppeteer@^9.1.1:
+puppeteer@9.1.1:
   version "9.1.1"
   resolved "https://registry.yarnpkg.com/puppeteer/-/puppeteer-9.1.1.tgz#f74b7facf86887efd6c6b9fabb7baae6fdce012c"
   integrity sha512-W+nOulP2tYd/ZG99WuZC/I5ljjQQ7EUw/jQGcIb9eu8mDlZxNY2SgcJXTLG9h5gRvqA3uJOe4hZXYsd3EqioMw==

@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "jest": "^27.0.6",
-    "jest-puppeteer": "^5.0.4",
-    "puppeteer": "^9.1.1"
+    "jest-puppeteer": "5.0.4",
+    "puppeteer": "9.1.1"
   }
 }
