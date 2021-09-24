@@ -1,8 +1,8 @@
 version: 2.1
 orbs:
   # https://circleci.com/developer/orbs/orb/circleci/node
-  node: circleci/node@4.1.0
-  slack: circleci/slack@3.4.2
+  node: circleci/node@4.7.0
+  slack: circleci/slack@4.4.4
 jobs:
   build-and-test:
     executor:
