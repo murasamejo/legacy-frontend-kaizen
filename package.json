@@ -2,7 +2,7 @@
   "name": "legacy-frontend-kaizen",
   "version": "0.0.1",
   "devDependencies": {
-    "jest": "28.0.2",
+    "jest": "28.0.3",
     "jest-puppeteer": "6.1.0",
     "puppeteer": "13.7.0"
   }
