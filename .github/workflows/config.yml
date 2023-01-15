@@ -1,4 +1,5 @@
-on: [push]
+on:
+  - push
 name: レガシーフロントエンド 安全改善ガイド
 jobs:
   legacy_frontend_anzen_kaizen_guide:
