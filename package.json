@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "devDependencies": {
     "jest": "29.5.0",
-    "jest-puppeteer": "8.0.3",
+    "jest-puppeteer": "8.0.4",
     "puppeteer": "19.7.3"
   }
 }
