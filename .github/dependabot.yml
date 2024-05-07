@@ -1,9 +1,0 @@
-version: 2
-
-updates:
-- package-ecosystem: npm
-  directory: "/"
-  schedule:
-    # 実質的に実行を中止する（App連携の場合はファイルを残して明示的に抑制する）
-    interval: monthly
-  open-pull-requests-limit: 10
