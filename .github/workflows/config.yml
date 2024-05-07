@@ -1,4 +1,5 @@
-on: [push]
+on:
+  - push
 name: レガシーフロントエンド 安全改善ガイド
 jobs:
   legacy_frontend_anzen_kaizen_guide:
@@ -10,9 +11,9 @@ jobs:
         node-version: [16.x, 18.x]
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@0ad4b8fadaa221de15dcec353f45205ec38ea70b # v4
     - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
         node-version: ${{ matrix.node-version }}
     - name: Install dependencies
